@@ -1,5 +1,5 @@
 def new_hash
-
+  the_new_hash {name: "Gabriel Seijo"}
 end
 
 def actor
